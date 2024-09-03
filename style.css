@@ -1,0 +1,37 @@
+body {
+color: white;
+background: black;
+margin: 0px;
+font-family: "New Amesterdam", sans-serif;
+
+}
+
+header {
+border-bottom: solid rgb(42,122,228);
+padding: 20px;
+font-size: 32px;
+color: rgb(42,122,228)
+
+
+}
+/* código omitido */
+section {
+background-color: rgb(0,0,0);
+padding-bottom: 60px;
+padding-top: 35px;
+display: flex;
+justify-content: center;
+}
+
+.chamada-texto {
+margin-right: 20px;
+
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 20px;
+}
